@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
     silkRoot.render(
       <Silk
         speed={5}
-        scale={1}
+        scale={0.9}
         color="#9c7448"
         noiseIntensity={1.5}
         rotation={0}
